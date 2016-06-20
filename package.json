@@ -1,0 +1,14 @@
+{
+  "name": "receiver_omxplayer_node",
+  "version": "1.0.1",
+  "description": "",
+  "main": "service.js",
+  "author": "Alejandro Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.0.1",
+    "express": "^4.13.3",
+    "forever": "^0.15.1"
+  },
+  "private": true
+}
